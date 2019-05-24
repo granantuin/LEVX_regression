@@ -1,6 +1,6 @@
 Regression wind: speed and direction
 
-Improving meteorological models accuracy with machine learning Classification
+Improving meteorological models accuracy with machine learning Regression
 
 VIGO Airport (LEVX)
 
