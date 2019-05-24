@@ -1,4 +1,4 @@
-Classification wind: speed and direction
+Regression wind: speed and direction
 
 Improving meteorological models accuracy with machine learning Classification
 
@@ -9,21 +9,21 @@ VIGO Airport (LEVX)
 
 ***Wind direction***
 
-[Display model Results](https://github.com/granantuin/Model_vs_station_regression/blob/master/Display_dir.ipynb)
+[Display model Results](https://github.com/granantuin/LEVX_regression/blob/master/Display_regre_LEVX_dir.ipynb)
 
-[Linear regression](https://github.com/granantuin/Model_vs_station_regression/blob/master/Linear_dir.ipynb)
+[Linear regression](https://github.com/granantuin/LEVX_regression/blob/master/linear_regre_LEVX_dir.ipynb)
 
-[Random Forest](https://github.com/granantuin/Model_vs_station_regression/blob/master/Randomforest_dir.ipynb)
+[Random Forest](https://github.com/granantuin/LEVX_regression/blob/master/Randomforest_levx_dir.ipynb)
 
-[Tensorflow](https://github.com/granantuin/Model_vs_station_regression/blob/master/tensorflow_dir.ipynb)
+[Tensorflow](https://github.com/granantuin/LEVX_regression/blob/master/tensorflow_levx_regre_dir.ipynb)
 
 
 ***Wind speed***
 
-[Display model Results](https://github.com/granantuin/Model_vs_station_regression/blob/master/Display_spd.ipynb)
+[Display model Results](https://github.com/granantuin/LEVX_regression/blob/master/Display_regre_LEVX_spd.ipynb)
 
-[Linear regression](https://github.com/granantuin/Model_vs_station_regression/blob/master/Linear_spd.ipynb)
+[Linear regression](https://github.com/granantuin/LEVX_regression/blob/master/linear_regre_LEVX_spd.ipynb)
 
-[Random Forest](https://github.com/granantuin/Model_vs_station_regression/blob/master/Randomforest_spd.ipynb)
+[Random Forest](https://github.com/granantuin/LEVX_regression/blob/master/Randomforest_levx_spd.ipynb)
 
-[Tensorflow](https://github.com/granantuin/Model_vs_station_regression/blob/master/Tensorflow_spd.ipynb)
+[Tensorflow](https://github.com/granantuin/LEVX_regression/blob/master/tensorflow_levx_regre_spd.ipynb)
